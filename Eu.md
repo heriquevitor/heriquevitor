@@ -17,10 +17,6 @@ I'm currently working on Public notary, law firm, responsible in both for admini
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=heriquevitor&icon=1&color=0)](https://visitcount.itsvg.in)
 
